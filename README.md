@@ -25,6 +25,10 @@ To make ratings comparable:
 
 These adjustments help visualize performance side-by-side across methodologies.
 
+ Files
+
+- `LVMH_Sustainability_Paper.pdf` – Full ESG analysis
+- `LVMH_ESG_Ratings_Table.xlsx` – Data table and embedded visual comparisons
 
  Sources
 
